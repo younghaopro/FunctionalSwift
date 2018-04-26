@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Map&amp;Filter&amp;Reduce/Map&amp;Filter&amp;Reduce.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:&#x5c01;&#x88c5;CoreImage/&#x5c01;&#x88c5;CoreImage.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Battleship/Battleship.xcodeproj">
+   </FileRef>
+</Workspace>
